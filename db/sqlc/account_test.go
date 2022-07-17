@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
-	"github.com/techschool/simplebank/util"
+	"github.com/tanvirhasan74/transaction_system/util"
 )
 
 func createRandomAccount(t *testing.T) Account {
